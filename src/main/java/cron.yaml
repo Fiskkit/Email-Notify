@@ -1,0 +1,7 @@
+version: 1
+cron:
+ - name: "emailnotify"
+   url: "/emailnotify"
+   schedule: "*/4 * * * *"
+
+
